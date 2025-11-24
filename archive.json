@@ -1,11 +1,6 @@
 {
   "folders": [
     {
-      "id": 1,
-      "name": "لا",
-      "documentations": []
-    },
-    {
       "id": 2,
       "name": "محمد",
       "documentations": []
@@ -13,11 +8,6 @@
     {
       "id": 3,
       "name": "⚙️ إدارة المحتوى",
-      "documentations": []
-    },
-    {
-      "id": 4,
-      "name": "هلا",
       "documentations": []
     }
   ]
