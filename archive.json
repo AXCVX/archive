@@ -1,28 +1,3 @@
 {
   "sections": [
     {
-      "id": 1,
-      "name": "جرائم السيسي الكافر",
-      "items": []
-    },
-    {
-      "id": 2,
-      "name": "جرائم حسني مبارك الكافر",
-      "items": [
-        {
-          "id": 1,
-          "title": "المحتوى الأول - جرائم حسني مبارك الكافر",
-          "type": "video",
-          "content": "BAACAgQAAxkBAANOaSQlFafB3MTr46zJFzEsCAileEkAAmMZAAJ-E8BT8BqyTpbJXLU2BA"
-        }
-      ]
-    }
-  ],
-  "folders": [
-    {
-      "id": 1,
-      "name": "جرائم السيسي الكافر",
-      "documentations": []
-    }
-  ]
-}
